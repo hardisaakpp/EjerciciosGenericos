@@ -25,4 +25,4 @@ class Caja {
 const caja = new Caja();
 caja.guardar("Hola, mundo");
 console.log(caja.obtener()); // "Hola, mundo"
-caja.mostrarTipo(); // "El tipo del objeto almacenado es: string"
+caja.mostrarTipo(); // "El tipo del objeto almacena

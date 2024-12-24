@@ -7,4 +7,4 @@ function imprimirArray(array) {
 
 // Uso del método
 imprimirArray([1, 2, 3, 4]); // Imprime los números
-imprimirArray(["a", "b", "c"]); // Imprime las cadenas
+imprimirArray(["a", "b", "c"]); // Impri

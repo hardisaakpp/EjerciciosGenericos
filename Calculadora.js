@@ -14,5 +14,4 @@ try {
     console.log(Calculadora.sumar(5, 10)); // 15
     console.log(Calculadora.sumar(3, "4")); // Lanza un error
 } catch (error) {
-    console.error(error.message); // "Ambos argumentos deben ser números."
-}
+    console.error(error.message); // "Ambos argumentos deben se
